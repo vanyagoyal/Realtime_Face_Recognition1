@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-image: url("Bg.jpg");
+    background-size:100%;
+    background-position-x:center;
+    background-position-y:-100px;
+    border:10px solid rgb(252, 170, 170);
+    border-radius:40px;
+    height:721px;
+}
+h1 {
+    width:80%;
+    background-color: rgb(243, 212, 212);
+    line-height:2;
+    margin-top:10px;
+    font-family: 'Orelega One', cursive;
+    font-size:50px;
+    border-radius:20px;
+    box-shadow: 0px 0px 30px purple;
+}
+#div_members{
+    background-color: lightgreen;
+    border-radius: 20px;
+    width:600px;
+    height:100px;
+}
+#div_members label {
+    font-size:25px;
+    color:navy;
+    text-decoration: underline;
+    font-family: 'Lobster', cursive;
+}
+#div_members h3 {
+    margin-top:2%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
+}
